@@ -1,0 +1,3 @@
+[submodule "spell/lib/dss-interfaces"]
+	path = spell/lib/dss-interfaces
+	url = https://github.com/makerdao/dss-interfaces
